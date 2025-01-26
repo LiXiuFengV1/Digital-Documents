@@ -1,2 +1,2 @@
-# Github_Discussions_2025
+# Github_DiGi_Docs
 A repository for free discussion.
